@@ -20,6 +20,10 @@ Actualmente, trabajo como Analista de Datos y Automatización de Procesos en Tel
 🎮 Juego para practicar mecanografía con estilo pixel art.  
 🛠️ Desarrollado en C++ con SFML.
 
+### [DeckLite](https://github.com/matgon/DeckLite)
+🎮 Juego de estrategia de cartas con estilo pixel art.  
+🛠️ Desarrollado en Python con Pygame.
+
 ### [Escuela-42](https://github.com/matgon/Escuela-42)
 🏫 Repositorio con mis proyectos y retos completados en la Escuela 42.  
 🔧 Mucho código en C y desafíos algorítmicos.
