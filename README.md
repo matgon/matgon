@@ -1,74 +1,33 @@
-# 👋 Hola, soy Mateo González de Miguel
+# Hola, soy Mateo! 👨‍💻
 
-Ingeniero de Computadores apasionado por la programación, el análisis de datos y la automatización de procesos.  
-Me encanta la eficiencia algorítmica y el aprendizaje continuo de nuevas tecnologías.  
-Además, tengo formación en Bellas Artes, lo que me aporta una visión creativa para resolver problemas.
+Soy Ingeniero de Computadores con experiencia en análisis de datos y automatización de procesos. Me apasiona la programación, la eficiencia algorítmica y el aprendizaje continuo de nuevas tecnologías. Además, tengo formación en Bellas Artes, lo que me aporta una visión creativa en la resolución de problemas.
 
----
-
-## 🛠️ Tecnologías y Lenguajes
-
-- Python (avanzado)  
-- C++ (avanzado)  
-- C (avanzado)  
-- Git (avanzado)  
-- PowerPlatform (avanzado)  
-- Alteryx (avanzado)  
-- Java (intermedio)  
-- Django / Flask (intermedio)  
-- HTML / CSS (intermedio)  
-- Javascript (básico)  
+Actualmente, trabajo como Analista de Datos y Automatización de Procesos en Telefónica S.A., donde diseño soluciones para automatizar tareas complejas y mejorar la eficiencia a través de herramientas tecnológicas.
 
 ---
 
-## 💼 Experiencia Profesional
+## 🌟 Proyectos Destacados
 
-### Telefónica S.A.
-- **Analista de Datos y Automatización de Procesos** (2023 - Actualmente)  
-  Automatización de procesos tributarios y optimización de tareas con tecnologías avanzadas.
+### [TFG-UroAnalytics](https://github.com/potchi23/TFG-UroAnalytics)
+🔬 Herramienta para análisis y gestión de datos en una unidad de urooncología.  
+💻 Backend en Python + base de datos MySQL.
 
-- **Analista de Datos - Beca Talentum** (2022 - 2023)  
-  Proyecto de migración de datos colaborando con múltiples áreas para asegurar la transición eficiente entre sistemas.
+### [SesgosToxicidadTweets](https://github.com/AlbertoGarciaDomenech/SesgosToxicidadTweets)
+🧠 Análisis de sesgos en detección de toxicidad en tweets políticos, en colaboración con **Newtral**.  
+📊 NLP y visualización de datos.
 
----
+### [PixelGame](https://github.com/matgon/PixelGame)
+🎮 Juego para practicar mecanografía con estilo pixel art.  
+🛠️ Desarrollado en C++ con SFML.
 
-## 🎓 Formación Académica
-
-- **Estudiante en Escuela 42** (2025 - Presente)  
-  Desarrollo de proyectos principalmente en C.
-
-- **Grado en Ingeniería de Computadores**  
-  Universidad Complutense de Madrid (2017 - 2023)  
-  - Trabajo fin de grado: Página web con funcionalidades de predicción de datos para el Hospital Infanta Leonor.  
-  - Colaboración con Newtral para análisis de sesgo en IA sobre perfiles políticos en Twitter.
-
-- **Grado en Bellas Artes**  
-  Universidad Rey Juan Carlos - Madrid (2016 - 2017)
-
----
-
-## 🚀 Proyectos Públicos Destacados
-
-Aquí algunos proyectos que puedes encontrar en mi [GitHub](https://github.com/matgon):
-
-### [Proyecto1](https://github.com/matgon/proyecto1)  
-Breve descripción del proyecto 1 y su funcionalidad principal.
-
-### [Proyecto2](https://github.com/matgon/proyecto2)  
-Breve descripción del proyecto 2, tecnologías usadas y propósito.
-
-### [Proyecto3](https://github.com/matgon/proyecto3)  
-Breve descripción del proyecto 3, resultados obtenidos y aprendizajes.
-
-*(Sustituye "Proyecto1", "Proyecto2", etc. por los nombres reales y añade una descripción corta de cada uno. Si quieres, puedo ayudarte a generarlas según tus repos repos.)*
+### [Escuela-42](https://github.com/matgon/Escuela-42)
+🏫 Repositorio con mis proyectos y retos completados en la Escuela 42.  
+🔧 Mucho código en C y desafíos algorítmicos.
 
 ---
 
 ## 📫 Contacto
 
-- 📧 matglezdemi@gmail.com  
-- 📱 +34 667 956 886  
-
----
-
-¡Gracias por visitar mi perfil!
+- 📧 Email: [matglezdemi@gmail.com](mailto:matglezdemi@gmail.com)
+- 📱 Teléfono: +34 667 956 886
+- 💼 [LinkedIn](https://www.linkedin.com/in/mateo-gonzalez-de-miguel)
