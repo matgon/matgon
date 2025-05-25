@@ -29,5 +29,4 @@ Actualmente, trabajo como Analista de Datos y Automatización de Procesos en Tel
 ## 📫 Contacto
 
 - 📧 Email: [matglezdemi@gmail.com](mailto:matglezdemi@gmail.com)
-- 📱 Teléfono: +34 667 956 886
 - 💼 [LinkedIn](https://www.linkedin.com/in/mateo-gonzalez-de-miguel)
